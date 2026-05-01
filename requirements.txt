@@ -1,6 +1,0 @@
-aiogram==3.*
-python-dotenv==1.*
-rapidfuzz==3.*
-openpyxl==3.*
-openai>=1.0.0
-Pillow==10.*
